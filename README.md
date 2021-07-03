@@ -1,5 +1,5 @@
 # DETECCIÓN DE URLS MALICIOSAS MEDIANTE MACHINE LEARNING
-Trabajo de Fin de Grado - Ingeniería Informática
+Proyecto en Python para detectar URLs maliciosas utilizando aprendizaje automático.
 
 
 
